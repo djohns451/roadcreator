@@ -1,4 +1,7 @@
 # Roadcreator
+
+[![Join the chat at https://gitter.im/djohns451/roadcreator](https://badges.gitter.im/djohns451/roadcreator.svg)](https://gitter.im/djohns451/roadcreator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A free road creation tool for unity. It's currently in beta so it's pretty stable but still containes some bugs
 
 ## Features:
