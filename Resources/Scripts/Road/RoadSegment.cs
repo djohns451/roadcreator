@@ -416,6 +416,8 @@ public class RoadSegment : MonoBehaviour
             uvs[i + 1].x *= currentLocalDistance;
             widths[i].x = currentLocalDistance;
             widths[i + 1].x = currentLocalDistance;
+
+            uvs[i] = uvs[i] * new Vector2(0, 15);
         }
 
         mesh.uv = uvs;
